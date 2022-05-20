@@ -1,0 +1,22 @@
+
+- [x] tomar el segundo argumento del input
+- [x] dividir los strings del word_jumble en elementos individuales
+- [ ] tomar la primera letra de la palabra que buscamos (input)
+- [ ] buscar en el primer elemento del world_jumble
+  - [ ] si la encontramos
+    - [ ] **def check_next()** -- buscar segundo elemento del input
+      - [ ] a la derecha
+      - [ ] a la izquierda
+      - [ ] abajo
+      - [ ] arriba
+      - [ ] diagonal arriba adelante
+      - [ ] diagonal arriba atrás
+      - [ ] diagonal abajo atrás
+      - [ ] diagonal abajo adelante
+    - [ ] y así sucesivamente hasta llegar hasta el último elemento
+  - [ ] si no la encontramos, buscar en el siguiente elemento de word_jumble
+- [ ] A tener en cuenta
+  - [ ] es la última letra del input? no podremos sumar +1 para buscar otra letra porque daría error
+  - [ ] es el último elemento de la fila en la que estamos evaluando?
+- [ ] 
+- [ ] 
